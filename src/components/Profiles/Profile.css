@@ -1,0 +1,17 @@
+
+ul{
+    margin-top: .2rem;
+    padding-left: 0rem !important;
+    
+}
+.aoTUt{
+    right: -1.5rem !important;
+}
+.dHQcjo{
+    left: -1.5rem !important;
+}
+@media (min-width: 768px) {
+    .maidProfileImage {
+        max-width: -webkit-fill-available;
+    }
+}

@@ -1,0 +1,13 @@
+.formOutline,
+.formMidInner,
+.formInner{
+    padding: .75rem !important;
+}
+
+@media (min-width: 640px) {
+    .formOutline,
+    .formMidInner,
+    .formInner{
+        padding: 2rem !important;
+    }
+}

@@ -1,0 +1,57 @@
+.gallery  {
+    --d: 6000ms;
+    display: grid;
+    overflow: hidden;
+    place-content: center;
+    transition: ease-in-out;
+  }
+  .gallery > img {
+    grid-area: 1/1;
+    aspect-ratio: 1.5;
+    object-fit: cover;
+    animation: r var(--d) linear infinite;
+  }
+  .gallery > img:nth-child(2) {animation-delay: calc(1*var(--d)/-4); transition: ease-in-out;}
+  .gallery > img:nth-child(3) {animation-delay: calc(3*var(--d)/-4); transition: ease-in-out;}
+  .gallery > img:nth-child(4) {animation-delay: calc(5*var(--d)/-4); transition: ease-in-out;}
+  
+  @keyframes r {
+    75%    {
+        transform: translate(-300%);
+        transition: ease-in-out;
+    }
+    75.01% {
+        transform: translate( 100%);
+        transition: ease-in-out;
+    }
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: scale(0.9);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+  
+  .animate-fade-in {
+    animation: fadeIn 0.7s ease-in-out forwards;
+  }
+  
+  @keyframes slideDown {
+    from {
+      opacity: 0;
+      transform: translateY(-50px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .animate-slide-down {
+    animation: slideDown 0.7s ease-in-out forwards;
+  }

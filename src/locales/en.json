@@ -1,0 +1,404 @@
+{
+  "upperHeader": {
+    "language": {
+      "english": "English",
+      "arabic": "عربي"
+    },
+    "contact": {
+      "email": "Email@example.com",
+      "phone": "+123-456-7890"
+    }
+  },
+  "navbar": {
+    "menuItems": {
+      "home": "Home",
+      "aboutUs": "About Us",
+      "services": "Services",
+      "blog": "Blog",
+      "contactUs": "Contact Us",
+      "logout": "Logout",
+      "login": "Login",
+      "signup": "Sign Up"
+    },
+    "logoAltText": "Sayma manpower"
+  },
+  "section": {
+    "subtitle": "Providing the best",
+    "title1": "MANPOWER",
+    "title2": "SOLUTIONS",
+    "subtitle2": "in Oman",
+    "subtitle3": "Sayma Manpower Supply",
+    "description": "Sayma Manpower Supply excels in delivering proficient housemaids, experienced waitresses, and more, catering to diverse staffing needs across Oman with unmatched reliability and professionalism.",
+    "buttonText": "Contact Us"
+  },
+  "services": {
+    "sectionTitle": "Services we Offer",
+    "seeAllButton": "See All",
+    "showProfileBtn": "Show Profiles",
+    "categories": [
+      {
+        "name": "Domestic Worker",
+        "url": "Domestic Worker",
+        "description": "Elevate your dining experience with our courteous and efficient waitstaff. Trained to provide exceptional service, our waiters and waitresses ensure a memorable meal for your guests.",
+        "image": "x7jq4wqqxzjopdizitey"
+      },
+      {
+        "name": "Barista",
+        "url": "Barista",
+        "description": "Enjoy a delicious cup of coffee or tea with our skilled and friendly baristas. They can prepare and serve a variety of hot and cold beverages, from espresso to latte to cappuccino.",
+        "image": "nvfyq40ialqvudruubxg"
+      },
+      {
+        "name": "Waitress",
+        "url": "Waitress",
+        "description": "Experience personalized and professional services with our team of waitresses. They can take and deliver your orders, provide menu recommendations, and ensure your satisfaction and comfort.",
+        "image": "eteowakhgd6xq386h1jm"
+      },
+      {
+        "name": "Nurses",
+        "url": "Nurses",
+        "description": "Receive quality and compassionate care from our qualified and dedicated nurses. They can provide medical assistance, monitor your health, administer medications, and offer support.",
+        "image": "reobsjvhdng7xhmrehzi"
+      },
+      {
+        "name": "Driver",
+        "url": "Driver",
+        "description": "Travel safely and comfortably with our reliable and courteous drivers. They can drive you to any destination, using the best routes and vehicles, and following the traffic rules and regulations.",
+        "image": "c0q23b7tcfpixbcssrrh"
+      },
+      {
+        "name": "Housekeeping Staff",
+        "url": "Housekeeping Staff",
+        "description": "Keep your home or office clean and tidy with our professional housekeeping staff. They are trained to handle all kinds of cleaning tasks, from dusting and vacuuming to sanitizing and disinfecting.",
+        "image": "xp6qmtkez0hub4m1b5vu"
+      },
+      {
+        "name": "Room Boy",
+        "url": "Room Boy",
+        "description": "Make your guests feel welcome and comfortable with our friendly and helpful room boys. They are responsible for cleaning and maintaining the rooms, delivering room service, and attending to any requests or complaints.",
+        "image": "x6qswbbpw3xsmrcaom3z"
+      },
+      {
+        "name": "Dishwasher",
+        "url": "Dishwasher",
+        "description": "Save time and energy by hiring our efficient and reliable dishwashers. They can wash, dry, and store all kinds of dishes, utensils, and cookware, using proper hygiene and safety standards.",
+        "image": "k3fnpmwiq1dss2tktjyv"
+      },
+      {
+        "name": "Cleaner",
+        "url": "Cleaner",
+        "description": "Whether you need a one-time deep cleaning or a regular maintenance cleaning, our cleaners are ready to serve you. They can clean any type of surface, furniture, or appliance, using eco-friendly products and equipment.",
+        "image": "ilgxvplznejhqvlo1xv9"
+      },
+      {
+        "name": "Mason",
+        "url": "Mason",
+        "description": "If you need to build, repair, or renovate any brick, stone, or concrete structure, our masons are the experts you need. They can work on walls, floors, foundations, chimneys, fireplaces, and more, with quality craftsmanship and durability.",
+        "image": "dnrwcauztfye9ikrxbe3"
+      },
+      {
+        "name": "Electrician",
+        "url": "Electrician",
+        "description": "For any electrical installation, repair, or maintenance, you can trust our licensed and experienced electricians. They can handle wiring, lighting, outlets, switches, circuit breakers, panels, generators, and more, with safety and efficiency.",
+        "image": "wgv7smmdhvd0bq2ulyri"
+      },
+      {
+        "name": "Plumber",
+        "url": "Plumber",
+        "description": "Don't let plumbing problems ruin your day. Call our skilled and reliable plumbers to fix any leak, clog, or damage in your pipes, faucets, toilets, sinks, showers, bathtubs, water heaters, or drains.",
+        "image": "nx8xpyzmaaah4sbnlbve"
+      },
+      {
+        "name": "AC Technician",
+        "url": "AC Technician",
+        "description": "Keep your air conditioning system running smoothly and efficiently with our AC technicians. They can install, repair, service, and maintain any type of AC unit, from window to split to central, using the latest tools and techniques.",
+        "image": "dl4ivlpphyvtj32kb7vj"
+      },
+      {
+        "name": "Carpenter",
+        "url": "Carpenter",
+        "description": "Transform your space with our creative and professional carpenters. They can design, build, and install any kind of wooden furniture, cabinets, shelves, doors, windows, frames, or structures, using high-quality materials and finishes.",
+        "image": "z2ep0zy93pxsexhodjeo"
+      },
+      {
+        "name": "Painter",
+        "url": "Painter",
+        "description": "Give your walls a fresh and beautiful look with our expert painters. They can paint any interior or exterior surface, using the best quality paints and brushes, and following your preferred color scheme and style.",
+        "image": "gq1wr07qnofbo7yus78d"
+      },
+      {
+        "name": "Labour/Helper",
+        "url": "Labour Helper",
+        "description": "Need some extra hands for your project or task? Hire our hardworking and trustworthy labourers/helpers. They can assist you with any kind of manual work, such as loading, unloading, moving, lifting, digging, or cleaning.",
+        "image": "so7jpp90t61yz8ca02z7"
+      },
+      {
+        "name": "Security Guards",
+        "url": "Security Guards",
+        "description": "Protect your property and people with our trained and licensed security guards. They can provide round-the-clock surveillance, access control, patrolling, alarm response, and emergency assistance, using the latest security equipment and protocols.",
+        "image": "itmc4meu6xlrm57x0rim"
+      },
+      {
+        "name": "IT Staff",
+        "url": "IT Staff",
+        "description": "Enhance your business performance and productivity with our IT staff. They can provide IT support, troubleshooting, networking, software development, web design, data analysis, and more, using the latest technologies and best practices.",
+        "image": "proeh0wughiywfxa6uk6"
+      },
+      {
+        "name": "Event Staffing",
+        "url": "Event Staffing",
+        "description": "Make your event a success with our event staffing service. We can provide you with any type of event staff, such as hosts, hostesses, promoters, models, entertainers, photographers, videographers, caterers, bartenders, and more.",
+        "image": "/txh0lso0xtxlcqttqor9"
+      },
+      {
+        "name": "Gardeners",
+        "url": "Gardeners",
+        "description": "Create and maintain a beautiful and healthy garden with our professional gardeners. They can plant, prune, weed, water, fertilize, and mulch any type of plants, flowers, trees, or shrubs, using organic and eco-friendly methods.",
+        "image": "knwrkjtrnvcwzfl36bmq"
+      },
+      {
+        "name": "Event Planner",
+        "url": "Event Planner",
+        "description": "Plan and organize your dream event with our experienced and creative event planners. They can help you with every aspect of your event, from budgeting and venue selection to theme and decoration to catering and entertainment.",
+        "image": "bk3lfg8frxxcyzktsehg"
+      },
+      {
+        "name": "Loading Unloading Helper",
+        "url": "Loading Unloading Helper",
+        "description": "Save time and effort by hiring our loading unloading helpers. They can help you load and unload any type of items, such as furniture, appliances, boxes, or luggage, using proper equipment and techniques.",
+        "image": "o4jsresy7bzhum8ews7s"
+      },
+      {
+        "name": "Beauticians",
+        "url": "Beautician",
+        "description": "Pamper yourself with our professional and talented beauticians. They can provide you with a range of beauty services, such as hair cutting, styling, coloring, makeup, manicure, pedicure, facial, waxing, threading, and more.",
+        "image": "l7wzb5wertsyojts94sh"
+      }
+    ]
+  },
+  "profilesSection": {
+    "title": "Available Profiles",
+    "buttonText": "See All"
+  },
+  "chooseUsSection": {
+    "mainText": "Sayma is an excellent choice for anyone looking for housemaids and domestic worker services in Muscat, Oman. Our agency offers a wide range of services, including housekeeping services and childcare services.",
+    "subTitle": "Why Choose Us ?",
+    "features": {
+      "feature1": {
+        "title": "Professional Approach",
+        "detail": "Sayma is your trusted source for domestic workers in Oman. Our housemaids are experienced, trained, and trustworthy, ensuring a seamless and reliable selection process for our clients."
+      },
+      "feature2": {
+        "title": "Cheapest Prices",
+        "detail": "Our domestic worker agency offers professional housemaid services at affordable prices. Sayma maids are skilled and dedicated to providing excellent service. We're a reliable and trustworthy agency, so you can count on us. Choose us for the best housekeeping service you can trust."
+      },
+      "feature3": {
+        "title": "Easy Processing",
+        "detail": "Getting our housemaid service is very simple! We've made the entire process super easy for you. From your first inquiry to having a skilled domestic worker at your doorstep, we've simplified every step. Experience ease with our straightforward housemaid service process."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "What Our Clients Say About Us"
+  },
+  "needHelpSection": {
+    "title": "Need Help Or Customized Package?",
+    "description": "If you are looking for expert assistance, leave your mobile number below and our experts will contact you right away!",
+    "yourNumber": "Your Number",
+    "buttonText": "Submit"
+  },
+  "footer": {
+    "title": "Sayma",
+    "description": "Your trusted partner for top-tier maid <br /> services, enhancing your home life with <br /> skilled  and dependable professionals.",
+    "Services": "Services",
+    "followUsTitle": "Follow us",
+    "legalTitle": "Legal",
+    "privacyPolicy": "Privacy Policy",
+    "termsAndConditions": "Terms & Conditions",
+    "copyright": "© 2024 Sayma ManPower. All Rights Reserved."
+  },
+  "aboutUs": {
+    "sectionTitle": "About Us",
+    "sectionTitle2": "Our Vision",
+    "paragraph": "Welcome to Sayma Manpower Supply, your trusted partner for premium workforce solutions. With a vision to redefine excellence, we take pride in being a leading provider of skilled and reliable professionals across diverse sectors. Explore our commitment to delivering tailored manpower solutions for your business success.",
+    "paragraph2": "At Sayma, our vision is a world where businesses thrive with the support of a dependable and skilled workforce. We aspire to bridge the gap between talent and opportunity, empowering both businesses and individuals to reach their full potential."
+  },
+  "contactForm": {
+    "sectionTitle": "Get In Touch",
+    "placeholderName": "Your Name",
+    "placeholderEmail": "Your Email",
+    "placeholderPhone": "Your Phone number",
+    "placeholderMessage": "Message",
+    "submitButton": "Send Message"
+  },
+  "supportSection": {
+    "sectionTitle": "Support",
+    "dubaiOffice": {
+      "title": "Office",
+      "address": "Shop No. 2795, near the Social Security Office, Al-Humber Street, Sohar, Oman."
+    }
+  },
+  "allProfiles": {
+    "searchBtn": "Search Here"
+  },
+  "maidDetail": {
+    "interviewSuccessMessage": "Interview Planned Successfully, we will contact you soon",
+    "codeLabel": "Code:",
+    "nationalityLabel": "Nationality:",
+    "ageLabel": "Age:",
+    "experienceLabel": "Experience:",
+    "salaryLabel": "Monthly Salary:",
+    "priceLabel": "Price:",
+    "downloadCVButton": "Download CV",
+    "planInterviewButton": "Plan Interview"
+  },
+  "filterContainer": {
+    "filter": "Filter",
+    "jobTypeLabel": "Job Type",
+    "salaryRangeLabel": "Salary Range",
+    "youHaveLabel": "You Have"
+  },
+  "filterItems": {
+    "fullTime": "Full-Time",
+    "monthlyBased": "Monthly Based",
+    "under100": "Under 100",
+    "100-150": "100 - 150",
+    "150-300": "150 - 300",
+    "babiesLessThan2Years": "Babies < 2 Years",
+    "moreThan2Kids": "More than 2 kids",
+    "noSundayOff": "No Sunday Off",
+    "hasPet": "A Pet",
+    "hasDog": "A Dog"
+  },
+  "onDemand": {
+    "comingSoon": "Coming Soon",
+    "heading": "We Provide this Category of workers on demand only.",
+    "subTxt": "Please enter your number, our team will get back to you",
+    "inputPlaceholder": "Enter Your Ph. No",
+    "submitButton": "Submit"
+  },
+  "aboutCompanyComponent": {
+    "services": {
+      "title": "60+",
+      "description": "Services"
+    },
+    "workers": {
+      "title": "3200",
+      "description": "Workers"
+    },
+    "clients": {
+      "title": "2177",
+      "description": "Clients"
+    },
+    "support": {
+      "title": "24Hrs",
+      "description": "Support"
+    }
+  },
+  "whyChooseUs": {
+    "box1": {
+      "title1": "Diverse Expertise",
+      "content1": "Benefit from a diverse range of skilled professionals across various industries. From hospitality to construction, our expertise spans a multitude of sectors."
+    },
+    "box2": {
+      "title2": "Flexibility",
+      "content2": "Tailor your service packages to precisely fit your needs. Whether it's specific roles, unique staffing requirements, or diverse skill sets, we've got you covered."
+    },
+    "box3": {
+      "title3": "Tailored Solutions",
+      "content3": "No one-size-fits-all approach. We pride ourselves on crafting customized staffing solutions to meet the unique demands of your business."
+    },
+    "box4": {
+      "title4": "Comprehensive Services",
+      "content4": "Beyond staffing, we offer a comprehensive suite of services. From event planning to IT support, we're your one-stop solution for diverse business needs."
+    },
+    "box5": {
+      "title5": "Quality Assurance",
+      "content5": "Expect nothing less than excellence. Our commitment to quality ensures that every professional we provide is highly skilled, reliable, and dedicated."
+    },
+    "box6": {
+      "title6": "24/7 Support",
+      "content6": "Your business doesn't sleep, and neither do we. Our 24/7 support ensures that you can reach us whenever you need assistance or have a query."
+    }
+  },
+  "filterSection": {
+    "search": "Search",
+    "clearAll": "Clear All",
+    "yourAppliedFilters": "Your Applied Filters",
+    "country": "Country",
+    "experience": "Experience",
+    "languages": "Languages",
+    "religion": "Religion",
+    "clear": "Clear",
+    "applyFilter": "Apply Filter",
+    "filter": "Filter",
+    "filterOptions": {
+      "countries": {
+        "myanmar": "Myanmar",
+        "india": "India",
+        "sriLanka": "Sri Lanka",
+        "nepal": "Nepal",
+        "philippines": "Philippines",
+        "indonesia": "Indonesia",
+        "kenya": "Kenya",
+        "madagascar": "Madagascar"
+      },
+      "experience": {
+        "experienced": "Experienced",
+        "new": "New"
+      },
+      "languages": {
+        "english": "English",
+        "arabic": "Arabic",
+        "other": "Other"
+      },
+      "religions": {
+        "muslim": "Muslim",
+        "christian": "Christian",
+        "otherReligion": "Other"
+      }
+    }
+  },
+  "breadcrumb": {
+    "aboutUs": {
+      "pageName": "About Us",
+      "title": "Sayma Manpower Supply",
+      "description": "Where excellence meets commitment. With a vision to redefine manpower services, we take pride in being a leading provider of skilled professionals across diverse industries. Explore our commitment to excellence in supplying top-notch manpower for your business needs."
+    },
+    "allProfiles": {
+      "pageName": "Profiles",
+      "title": "Looking for Monthly or Contract base Housemaids?",
+      "description": "We provide housemaids across Oman on a 2-year contract or monthly base, offering immediate delivery within one day. Our housemaids come from India, Nepal, Sri Lanka, Myanmar, Indonesia, Kenya, and Madagascar. See housemaids profile below and for more info contact us on +968 9620 1040 "
+    },
+    "services": {
+      "pageName": "Services",
+      "title": "Need Help Or Customized Package?",
+      "description": "Sayma Manpower Supply excels in delivering proficient housemaids, experienced waitresses, and more, catering to diverse staffing needs across Oman with unmatched reliability and professionalism.",
+      "buttonText": "Contact Us"
+    },
+    "blogs": {
+      "pageName": "Blogs",
+      "title": "Our Blogs",
+      "description": "Explore our blog for a blend of insightful articles, latest trends, and engaging content. From life hacks to tech updates, we've got your curiosity covered. Join us on this journey of discovery and enjoy a delightful read. Welcome to a space where ideas flourish and words come alive!"
+    }
+  },
+  "aboutUsMission": {
+    "title": "Our Mission",
+    "connectingSkills": {
+      "subtitle": "Connecting Skills to Needs",
+      "content": "Our mission is to link businesses with the right talent. Utilizing meticulous recruitment processes, we ensure that the professionals we provide possess the skills and dedication necessary to contribute to the success of our clients."
+    },
+    "exceedingExpectations": {
+      "subtitle": "Exceeding Expectations",
+      "content": "Our mission is to go beyond traditional manpower services, aiming to exceed expectations and contribute to the growth and efficiency of the businesses we serve."
+    },
+    "buildingPartnerships": {
+      "subtitle": "Building Lasting Partnerships",
+      "content": "We believe in building enduring partnerships with our clients. Prioritizing transparency, reliability, and a customer-centric approach, we aspire to be a trusted extension of your team."
+    }
+  },
+  "officeSection": {
+    "title": "Our Offices",
+    "name": "Oman Office"
+  }
+}

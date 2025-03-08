@@ -1,0 +1,9 @@
+@media (max-width:990px) {
+    .needHelpContainer{
+        flex-direction: column;
+    }
+    .emailContainer{
+        margin-left: 0 !important;
+        margin-top: 2rem !important;
+    }
+}

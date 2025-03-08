@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+body{
+    font-family: 'Tajawal', sans-serif !important;
+}
+.elipse{
+    height: 30rem !important;
+    width: 30rem !important;
+}
+.navitemsrtl{
+    margin-left: 0 !important;
+}
+.sub-box{
+    right: -60% !important;
+}
+.main-circle p{
+    margin-right: auto;
+    margin-left: auto !important;
+    text-align: justify;
+}
+
+.emailContainer form button{
+    margin-right: 1rem !important;
+}
+.rtlinputt{
+    margin-left: 0 !important;
+    margin-right: .5rem !important;
+}
+.contactUsForm input, .contactUsForm textarea, .contactUsForm select{
+    padding: 1rem 1rem 1rem 8rem !important;
+}
+.rtlNeedH{
+    border-top-right-radius: 0% !important;
+    border-top-left-radius: .5rem;
+    border-bottom-right-radius: 0% !important;
+    border-bottom-left-radius: .5rem;
+}
+.rtlNeedHInput{
+    border-top-left-radius: 0% !important;
+    border-top-right-radius: .5rem;
+    border-bottom-left-radius: 0% !important;
+    border-bottom-right-radius: .5rem;
+}
+.searchInput {
+    padding-right: 1rem;
+}
+.mainCont{
+    place-self: flex-start !important;
+    margin-right:0 !important;
+}
+@media (max-width: 1077px){
+    .rtlinputt{
+        margin-right: 0 !important;
+    }
+}
