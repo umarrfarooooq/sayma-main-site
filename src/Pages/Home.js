@@ -6,7 +6,10 @@ import Testimonials from "../components/Testimonials/Testimonials";
 import WhyChooseUs from "../components/Why-Choose-Us/Why-Choose-Us";
 import NeedHelp from "../components/Need-Help/NeedHelp";
 import Footer from "../components/Footer/Footer";
+import AllMaidsProfiles from "../components/All-Maids-Profiles/All-Maids-Profiles";
 import { Helmet } from "react-helmet";
+import { Link } from "react-router-dom";
+import ButtonEl from "../components/UI/Button/Button";
 const Home = () => {
   return (
     <>
@@ -33,7 +36,31 @@ const Home = () => {
         </a>
       </div>
       <Main />
-      <Services />
+      {/* <Services /> */}
+      <div className="bg-[#DCE2FF]">
+        <div className="py-8 sm:py-16 container">
+          <AllMaidsProfiles isHome={true} />
+          <div className="w-full flex items-center justify-center my-4">
+            <button>
+              <Link
+                to="/nepali-srilankan-housemaids?category=Domestic%20Worker"
+                className="flex items-center"
+                style={{ textDecoration: "none", color: "#FFFBFA" }}
+              >
+                <div className="flex items-center">
+                  <ButtonEl
+                    bgColor="#F05D22"
+                    hoverBgColor="#F05D22"
+                    px={6}
+                    buttonTxt={"See All"}
+                  />
+                </div>
+              </Link>
+            </button>
+          </div>
+        </div>
+      </div>
+
       <WhyChooseUs />
       <Testimonials />
       <NeedHelp />

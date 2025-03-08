@@ -17,6 +17,7 @@ const AllMaidsProfiles = ({
   selectedReligions,
   selectedLanguages,
   selectedExperiences,
+  isHome = false,
 }) => {
   const [maidData, setMaidData] = useState([]);
   const [itemsToLoad, setItemsToLoad] = useState(6);
@@ -67,16 +68,34 @@ const AllMaidsProfiles = ({
   return (
     <>
       <div
-        className="allprofilesmaid relative space-y-4 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-8 md:space-y-0"
-        style={{ width: "70%" }}
+        className={`allprofilesmaid relative space-y-4 md:grid md:grid-cols-2 lg:grid-cols-${
+          isHome ? "4" : "3"
+        } md:gap-8 md:space-y-0`}
+        style={{ width: isHome ? "100%" : "70%" }}
       >
-        {loader
-          ? Array.from({ length: itemsToLoad }, (_, index) => (
-              <SkeletonLoader key={uuidv4()} />
-            ))
-          : currentItems.map((maid, index) => (
-              <MaidProfiles key={index} data={maid} backApiUrl={apiUrl} />
-            ))}
+        {isHome ? (
+          <>
+            {loader
+              ? Array.from({ length: itemsToLoad }, (_, index) => (
+                  <SkeletonLoader key={uuidv4()} />
+                ))
+              : currentItems
+                  .slice(0, 4)
+                  .map((maid, index) => (
+                    <MaidProfiles key={index} data={maid} backApiUrl={apiUrl} />
+                  ))}
+          </>
+        ) : (
+          <>
+            {loader
+              ? Array.from({ length: itemsToLoad }, (_, index) => (
+                  <SkeletonLoader key={uuidv4()} />
+                ))
+              : currentItems.map((maid, index) => (
+                  <MaidProfiles key={index} data={maid} backApiUrl={apiUrl} />
+                ))}{" "}
+          </>
+        )}
 
         <div className="load-more w-full">
           <button
